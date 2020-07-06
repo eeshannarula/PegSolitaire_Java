@@ -1,10 +1,11 @@
 # PegSolitaire_Java
 ## this is UW Madison CS 300 Peg Solitaire game
 
-### you can acess the main class by going to src/mypackage/peggame
+the main class **PegGame** can be found in : *src/mypackage/PegGame.java*
 
 ### Sample run of the game : 
-'''
+```
+
 WELCOME TO CS300 PEG SOLITAIRE!
 ===============================
                                
@@ -62,4 +63,4 @@ pls choose from the following moves : *right  : right
 5 _  _  _  _  _ 
 you won
 
-'''
+```
