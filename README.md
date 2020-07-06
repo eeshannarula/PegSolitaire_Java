@@ -1,7 +1,7 @@
 # PegSolitaire_Java
 ## this is UW Madison CS 300 Peg Solitaire game
 
-the main class **PegGame** can be found in : *src/mypackage/PegGame.java*
+> the main class **PegGame** can be found in : *src/peggame/PegGame.java*
 
 ### Sample run of the game : 
 ```
