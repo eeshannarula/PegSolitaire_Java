@@ -1,8 +1,6 @@
 # PegSolitaire_Java
 ## this is UW Madison CS 300 Peg Solitaire game
 
-> the main class **PegGame** can be found in : *src/peggame/PegGame.java*
-
 ### Sample run of the game : 
 ```
 
@@ -18,49 +16,53 @@ Board Style Menu
 4) Simple_t                    
                                
                                
-pls fill in the board stype index value : 4
+pls select the board type : 4
 0 1  2  3  4  5  
 1 _  _  _  _  _ 
 2 _  @  @  @  _ 
 3 _  _  @  _  _ 
 4 _  _  @  _  _ 
 5 _  _  _  _  _ 
-row of the peg you want to move : 2
-column of the pef you want to move : 3
-pls choose from the following moves : *left *right  : left
+pls enter the column of the peg : 3
+pls enter the row of the peg : 2
+pls choose direction 1) UP 2) DOWN 3) LEFT 4) RIGHT : 4
 0 1  2  3  4  5  
 1 _  _  _  _  _ 
-2 @  _  _  @  _ 
+2 _  @  _  _  @ 
 3 _  _  @  _  _ 
 4 _  _  @  _  _ 
 5 _  _  _  _  _ 
-row of the peg you want to move : 4
-column of the pef you want to move : 3
-pls choose from the following moves : *up  : up
+pls enter the column of the peg : 3
+pls enter the row of the peg : 4
+pls choose direction 1) UP 2) DOWN 3) LEFT 4) RIGHT : 1
 0 1  2  3  4  5  
 1 _  _  _  _  _ 
-2 @  _  @  @  _ 
+2 _  @  @  _  @ 
 3 _  _  _  _  _ 
 4 _  _  _  _  _ 
 5 _  _  _  _  _ 
-row of the peg you want to move : 2
-column of the pef you want to move : 4
-pls choose from the following moves : *left  : left
+pls enter the column of the peg : 2
+pls enter the row of the peg : 2
+pls choose direction 1) UP 2) DOWN 3) LEFT 4) RIGHT : 4
 0 1  2  3  4  5  
 1 _  _  _  _  _ 
-2 @  @  _  _  _ 
+2 _  _  _  @  @ 
 3 _  _  _  _  _ 
 4 _  _  _  _  _ 
 5 _  _  _  _  _ 
-row of the peg you want to move : 2
-column of the pef you want to move : 1
-pls choose from the following moves : *right  : right
+pls enter the column of the peg : 5
+pls enter the row of the peg : 2
+pls choose direction 1) UP 2) DOWN 3) LEFT 4) RIGHT : 3
 0 1  2  3  4  5  
 1 _  _  _  _  _ 
 2 _  _  @  _  _ 
 3 _  _  _  _  _ 
 4 _  _  _  _  _ 
 5 _  _  _  _  _ 
-you won
+Congrats! you won
+                                         
+                                         
+=========================================
+THANK YOU FOR PLAYING CS300 PEG SOLITAIRE
 
 ```
